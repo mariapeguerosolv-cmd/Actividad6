@@ -26,7 +26,9 @@
                                                   en código y sugerencias
                                                   de mejora del dataset.
 
-  Copilot (Microsoft)     No                      ---
+  Copilot (Microsoft)     Sí                      Corrección de errores
+                                                  en código de notebook.
+  
   -----------------------------------------------------------------------
 
 # Desarrollo de Contenido
