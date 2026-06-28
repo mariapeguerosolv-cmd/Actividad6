@@ -23,7 +23,7 @@ Completa la siguiente tabla:
 | --- | --- | --- |
 | **ChatGPT / OpenAI** | ☑ Sí  ☐ No | Corrección de errores en código de notebook. |
 | **Claude (Anthropic)** | ☐ Sí  ☐ No |  |
-| **Gemini (Google)** | ☑ Sí  ☐ No | "Apoyo en la revisión de redacción, explicación de conceptos como Baseline y Umbral, corrección de errores en código de notebook, y sugerencias de mejora en el dataset para obtener mejores resultados en la simulación." |
+| **Gemini (Google)** | ☑ Sí  ☐ No | Apoyo en la revisión de redacción, explicación de conceptos como Baseline y Umbral, corrección de errores en código de notebook, y sugerencias de mejora en el dataset para obtener mejores resultados en la simulación. |
 | **Copilot (Microsoft)** | ☑ Sí  ☐ No | Corrección de errores en código de notebook. |
 | **Otra (especifica):** | ☐ Sí  ☐ No |  |
 
@@ -37,12 +37,13 @@ Deberás seleccionar un problema de clasificación (clínico, financiero o socia
 
 La actividad debe cumplir con los siguientes elementos:
 
-* Reporte técnico de evaluación y validación del modelo.
+* **1. Reporte técnico de evaluación y validación del modelo.**
 * **Extensión sugerida:** 6 a 8 páginas.
-* **Contenido:** Definición del problema y contexto.
+* **Contenido:**
 
 ---
 
+### Definición del problema y contexto.
 ### Introducción, Definición del Problema y Contexto
 
 Para el área de finanzas, es necesaria la clasificación de los clientes y buscar los modelos más certeros para saber si los clientes son de tipo bajo, medio o alto riesgo.
@@ -245,7 +246,7 @@ El modelo seleccionado (XGBoost) muestra un *Accuracy* final estable de 83.75%, 
 
 ---
 
-### Notebook o script de experimentación
+### 2. Notebook o script de experimentación
 
 #### Contenido:
 
@@ -258,7 +259,7 @@ El modelo seleccionado (XGBoost) muestra un *Accuracy* final estable de 83.75%, 
 
 ---
 
-### Tablero visual de resultados
+### 3. Tablero visual de resultados
 
 #### Incluye:
 
