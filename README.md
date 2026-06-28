@@ -60,7 +60,7 @@ En este reporte técnico se pretende evaluar el modelo de Regresión Logística 
 
 * **S (Específico):** Desarrollar e implementar un modelo de Machine Learning (XGBoost vs. Regresión Logística) para clasificar a los clientes corporativos en tres niveles de riesgo de impago (*high, medium, low*).
 * **M (Medible):** Superar un *Accuracy* de 80% y un *ROC_AUC* superior a 0.90 en la clasificación multiclase.
-* **A (Alcanzable):** El objetivo es viable mediante el uso de optimización de hiperparámetros (*GridSearchCV*) y un dataset estructurado de interacciones históricas.
+* **A (Alcanzable):** El objetivo es viable mediante el uso de optimización de hiperparámetros y un dataset estructurado de interacciones históricas.
 * **R (Relevante):** Permite al departamento de finanzas automatizar y anticipar las pautas de cobranza (*call, statement, reminder*), protegiendo el flujo de caja de la empresa.
 * **T (Temporal):** El modelo debe ser evaluado, validado mediante pruebas de estrés y estar listo para la toma de decisiones al cierre del ciclo de experimentación actual (Junio 2026).
 
