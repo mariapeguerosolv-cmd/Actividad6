@@ -1,7 +1,3 @@
-Aquí tienes todo el contenido del archivo estructurado exactamente en formato **Markdown**, respetando la jerarquía, las tablas y la información completa sin omitir ni resumir ningún detalle:
-
----
-
 # ACTIVIDAD 6
 
 ## Datos Generales
