@@ -21,10 +21,10 @@ Completa la siguiente tabla:
 
 | Herramienta de IA utilizada | ¿La usaste? | Propósito / Descripción de uso / Prompt utilizado |
 | --- | --- | --- |
-| **ChatGPT / OpenAI** | ☐ Sí  ☐ No | Corrección de errores en código de notebook. |
+| **ChatGPT / OpenAI** | ☑ Sí  ☐ No | Corrección de errores en código de notebook. |
 | **Claude (Anthropic)** | ☐ Sí  ☐ No |  |
 | **Gemini (Google)** | ☑ Sí  ☐ No | "Apoyo en la revisión de redacción, explicación de conceptos como Baseline y Umbral, corrección de errores en código de notebook, y sugerencias de mejora en el dataset para obtener mejores resultados en la simulación." |
-| **Copilot (Microsoft)** | ☐ Sí  ☐ No | Corrección de errores en código de notebook. |
+| **Copilot (Microsoft)** | ☑ Sí  ☐ No | Corrección de errores en código de notebook. |
 | **Otra (especifica):** | ☐ Sí  ☐ No |  |
 
 ---
